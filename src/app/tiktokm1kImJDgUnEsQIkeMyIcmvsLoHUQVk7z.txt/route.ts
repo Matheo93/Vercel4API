@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server';
 
 export async function GET() {
   return new NextResponse(
-    'tiktok-developers-site-verification=m1kImJDgUnEsQIkeMyIcmvsLoHUQVk7z',
+    'tiktok-developers-site-verification=brXAgjIqtAUEFgq8Z2siDwT5DEVhNYjW',
     {
       headers: {
         'Content-Type': 'text/plain',
